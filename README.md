@@ -40,9 +40,10 @@ A simple and fun Rock-Paper-Scissors game built to practice basic programming co
 This project is part of my journey to learn programming and improve my skills by building small and meaningful projects.
 
 ---
+---
+### 📖 About Rock-Paper-Scissors
 
-📖 About Rock-Paper-Scissors
-bout Rock-Paper-Scissors
+
 Rock-Paper-Scissors is a classic hand game played between two players, and this project brings it to life in a simple digital format. I created this project as part of my programming learning journey to practice key coding concepts like:
 
 User input handling
@@ -56,3 +57,4 @@ Game logic design
 (Optional) Basic UI/UX
 
 This project is beginner-friendly and helps understand how small games work behind the scenes. Whether you're playing in the terminal or in a web browser, it’s a fun way to learn and improve coding skills.
+---
