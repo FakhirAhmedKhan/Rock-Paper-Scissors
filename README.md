@@ -41,7 +41,7 @@ This project is part of my journey to learn programming and improve my skills by
 
 ---
 
-
+📖 About Rock-Paper-Scissors
 bout Rock-Paper-Scissors
 Rock-Paper-Scissors is a classic hand game played between two players, and this project brings it to life in a simple digital format. I created this project as part of my programming learning journey to practice key coding concepts like:
 
